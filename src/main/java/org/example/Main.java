@@ -12,6 +12,8 @@ public class Main {
         System.out.println("Hello github1");
         System.out.println("Hello github2");
         System.out.println("Hello github2");
+        System.out.println("Hello github2");
+        System.out.println("Hello github3");
 
 
     }
